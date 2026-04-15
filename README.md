@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Prakash+Kumar+Mahato+👋;Data+Analyst+%7C+Data+Scientist+🚀;Python+%7C+SQL+%7C+Machine+Learning;Open+to+Work+%26+Collaborate!" alt="Typing SVG" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=prakashkumarmahato807&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
 💫 Hi 👋, I'm Prakash Kumar Mahato
 
 Pursuing Data Science Course
@@ -39,6 +49,16 @@ Email Me 👉 ✉️ prakashkumarmahato807@gmail.com
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🗂️ Featured Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| 📈 Zerodha Trading Analysis | Analyzed 3 years of stock trading data, built Excel dashboard | Python, Pandas, openpyxl |
+| 📊 EDA Projects | Exploratory data analysis on real datasets | Python, Matplotlib, Seaborn |
+| 🤖 ML Practice | Classification & regression models | Scikit-learn, NumPy |
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prakashkumarmahato807&limit=5&theme=dark&combine_all_yearly_contributions=true)
