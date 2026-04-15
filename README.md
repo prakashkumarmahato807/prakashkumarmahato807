@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Prakash+Kumar+Mahato+👋;Data+Analyst+%7C+Data+Scientist+🚀;Python+%7C+SQL+%7C+Machine+Learning;Open+to+Work+%26+Collaborate!" alt="Typing SVG" />
+### 👋 Hi, I'm Prakash Kumar Mahato
+#### 🚀 Data Analyst | Data Scientist | ML Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prakashkumarmahato807&color=blueviolet&style=for-the-badge)
 
